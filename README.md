@@ -18,4 +18,7 @@ This paper discusses strategies for clock tree design, focusing on minimizing sk
 ## Graph Of Time domain Response
 ![WhatsApp Image 2024-11-08 at 18 41 10_2490bdfc](https://github.com/user-attachments/assets/618f6b0a-6688-4dce-856d-02e03ccbd978)
 
+## Clock Signal vs Time
+![WhatsApp Image 2024-11-08 at 19 09 33_2662b66a](https://github.com/user-attachments/assets/e7ff5e95-6d83-4172-b7cc-4a7f49a2cd97)
+
 

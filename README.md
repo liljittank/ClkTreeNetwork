@@ -21,10 +21,10 @@ This paper discusses strategies for clock tree design, focusing on minimizing sk
 ## Clock Signal vs Time
 ![WhatsApp Image 2024-11-08 at 19 09 33_2662b66a](https://github.com/user-attachments/assets/e7ff5e95-6d83-4172-b7cc-4a7f49a2cd97)
 
-##Contact Information
+## Contact Information
 tanmay.kadam@nmiet.edu.in
 
- ##Acknowledgements
+ ## Acknowledgements
  Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
 
 
